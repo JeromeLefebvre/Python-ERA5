@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "1",
+"features": [
+{ "type": "Feature", "properties": { "direction": 0.73014291132903963, "line name": "MOR-TS 81", "index": 1, "capacity": "132", "weather longitude": 116.0, "weather latitude": -30.75 }, "geometry": { "type": "LineString", "coordinates": [ [ 116.028364975000045, -30.63149223299996 ], [ 116.027286272000083, -30.546848825999973 ] ] } },
+{ "type": "Feature", "properties": { "direction": 5.6999399447789756, "line name": "MOR-TS 81", "index": 2, "capacity": "132", "weather longitude": 116.0, "weather latitude": -30.5 }, "geometry": { "type": "LineString", "coordinates": [ [ 116.027286272000083, -30.546848825999973 ], [ 116.006344639000076, -30.337038494999945 ] ] } },
+{ "type": "Feature", "properties": { "direction": 0.2310166195421175, "line name": "MOR-TS 81", "index": 3, "capacity": "132", "weather longitude": 116.0, "weather latitude": -30.25 }, "geometry": { "type": "LineString", "coordinates": [ [ 116.006344639000076, -30.337038494999945 ], [ 116.005248073000075, -30.065074237999966 ] ] } },
+{ "type": "Feature", "properties": { "direction": 4.2321324536306975, "line name": "MOR-TS 81", "index": 4, "capacity": "132", "weather longitude": 116.0, "weather latitude": -30.0 }, "geometry": { "type": "LineString", "coordinates": [ [ 116.005248073000075, -30.065074237999966 ], [ 115.979970944000115, -29.72348806399998 ] ] } },
+{ "type": "Feature", "properties": { "direction": 6.5028354634843026, "line name": "MOR-TS 81", "index": 5, "capacity": "132", "weather longitude": 116.0, "weather latitude": -29.75 }, "geometry": { "type": "LineString", "coordinates": [ [ 115.979970944000115, -29.72348806399998 ], [ 115.971183901000018, -29.646399095999982 ] ] } },
+{ "type": "Feature", "properties": { "direction": 49.155946102101836, "line name": "MOR-TS 81", "index": 6, "capacity": "132", "weather longitude": 116.0, "weather latitude": -29.75 }, "geometry": { "type": "LineString", "coordinates": [ [ 115.971183901000018, -29.646399095999982 ], [ 115.856799913000032, -29.547511907999933 ] ] } },
+{ "type": "Feature", "properties": { "direction": 65.056578578683059, "line name": "MOR-TS 81", "index": 7, "capacity": "132", "weather longitude": 115.75, "weather latitude": -29.5 }, "geometry": { "type": "LineString", "coordinates": [ [ 115.856799913000032, -29.547511907999933 ], [ 115.803076840000017, -29.522524983999972 ] ] } },
+{ "type": "Feature", "properties": { "direction": 82.59286729294638, "line name": "MOR-TS 81", "index": 8, "capacity": "132", "weather longitude": 115.75, "weather latitude": -29.5 }, "geometry": { "type": "LineString", "coordinates": [ [ 115.803076840000017, -29.522524983999972 ], [ 115.768973667000068, -29.518091437999942 ] ] } }
+]
+}
