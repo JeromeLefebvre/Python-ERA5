@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "oneTitle",
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 114.25, -35.25 ], [ 122.25, -35.25 ], [ 122.25, -28.25 ], [ 114.25, -28.25 ], [ 114.25, -35.25 ] ] ] } }
+]
+}
